@@ -1,0 +1,1 @@
+ export const serverUrl="https://dairybackend-of1w.onrender.com"
