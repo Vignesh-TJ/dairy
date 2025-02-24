@@ -13,10 +13,9 @@ import AdminHome from './pages/AdminHome'
 import { Route, Routes } from 'react-router-dom'
 import Main from './pages/Main'
 import Monthlyreport from './pages/Monthlyreport'
-import Cart from './pages/Cart'
 import Soft from './pages/Soft'
 import WokersPage from './pages/WokersPage'
-import Homeheader from './components/Homeheader'
+
 
 function App() {
 
